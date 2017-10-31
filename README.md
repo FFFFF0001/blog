@@ -3,13 +3,6 @@
 
 > 专注前端开发
 
-## HTML/CSS
-* [web前端面试题大集合]()
-
-## JavaScript
-* [JavaScript原型与面向对象]()
-* [JavaScript数组]()
-
 ## MongoDB数据库
 * [MongoDB数据库相关配置]()
 * [MongoDB数据库基本操作]()
