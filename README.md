@@ -6,7 +6,8 @@
 ## HTML/CSS
 * [web前端面试题大集合](https://github.com/strivedjiango/blog/issues/1)
 
-## JavaScript
+## JavaScript 
+* [JavaScript排序算法](https://github.com/strivedjiango/blog/issues/9)
 * [JavaScript原型与面向对象](https://github.com/strivedjiango/blog/issues/2)
 * [JavaScript数组](https://github.com/strivedjiango/blog/issues/3)
 
